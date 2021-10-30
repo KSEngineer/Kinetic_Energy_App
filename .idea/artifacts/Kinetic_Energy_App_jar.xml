@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Kinetic Energy App:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Kinetic_Energy_App_jar</output-path>
+    <root id="archive" name="Kinetic Energy App.jar">
+      <element id="module-output" name="Kinetic Energy App" />
+    </root>
+  </artifact>
+</component>
